@@ -18,7 +18,7 @@
 - 🌱 Constantly learning new technologies and best practices
 - 💡 Passionate about clean code, scalable architecture, and user experience
 - 🎯 2026 Goals: Contribute more to Open Source projects and build impactful products
-- ⚡ Fun fact: **[Add something unique about yourself]**
+- ⚡ Fun fact: **[Team player, learnt from football, implemented at work place]**
 
 ---
 
