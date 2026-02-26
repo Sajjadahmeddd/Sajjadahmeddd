@@ -16,7 +16,7 @@
 
 - 🔭 Currently working on **innovative web applications and software solutions**
 - 🌱 Constantly learning new technologies and best practices
-- 💡 Passionate about **clean code, scalable architecture, and user experience**
+- 💡 Passionate about clean code, scalable architecture, and user experience
 - 🎯 2026 Goals: Contribute more to Open Source projects and build impactful products
 - ⚡ Fun fact: **[Add something unique about yourself]**
 
