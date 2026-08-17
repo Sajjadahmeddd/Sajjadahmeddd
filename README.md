@@ -65,7 +65,9 @@
 
 ## 📊 GitHub Statistics
 
-GitHub activity and contribution summaries are currently omitted here to keep the profile reliable and free of broken external image badges.
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Sajjadahmeddd&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
