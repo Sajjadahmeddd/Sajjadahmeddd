@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Sajjad+Ahmed+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
-<h3 align="center">Full Stack Developer | Software Engineer | Open Source Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Software Engineer </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
