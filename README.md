@@ -7,8 +7,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sajjad-ahmed-30969531a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:sajjad2k3ahmed@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="REPLACE-ME-LEETCODE-URL"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="REPLACE-ME-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://leetcode.com/u/sajjadahmeddd/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://sajjad-portfolio-taupe.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
@@ -92,8 +92,8 @@
 
 <div align="center">
 
-[![ConstructSafe](https://github-readme-stats.vercel.app/api/pin/?username=Sajjadahmeddd&repo=REPLACE-ME-REPO-CONSTRUCTSAFE&theme=tokyonight&hide_border=true)](https://github.com/Sajjadahmeddd/REPLACE-ME-REPO-CONSTRUCTSAFE)
-[![FingerLess](https://github-readme-stats.vercel.app/api/pin/?username=Sajjadahmeddd&repo=REPLACE-ME-REPO-FINGERLESS&theme=tokyonight&hide_border=true)](https://github.com/Sajjadahmeddd/REPLACE-ME-REPO-FINGERLESS)
+[![ConstructSafe](https://github-readme-stats.vercel.app/api/pin/?username=Sajjadahmeddd&repo=ConstructSafeee&theme=tokyonight&hide_border=true)](https://github.com/Sajjadahmeddd/ConstructSafeee)
+[![FingerLess](https://github-readme-stats.vercel.app/api/pin/?username=Sajjadahmeddd&repo=Face_Attendance_System&theme=tokyonight&hide_border=true)](https://github.com/Sajjadahmeddd/Face_Attendance_System)
 
 </div>
 
@@ -101,10 +101,10 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[ConstructSafe](https://github.com/Sajjadahmeddd/REPLACE-ME-REPO-CONSTRUCTSAFE)** | Full-stack construction site safety platform integrating safety detection modules into a unified web application, with CCTV live playback, timelapse, and history retrieval via AWS S3. Logs all safety alerts to a database with automated report generation. | Python, Flask, OpenCV, YOLOv8, AWS S3 |
-| **[FingerLess](https://github.com/Sajjadahmeddd/REPLACE-ME-REPO-FINGERLESS)** | Attendance automation system using InsightFace with dual-camera check-in/out and real-time video processing with duplicate-free attendance logging. | Python, OpenCV, InsightFace, Flask |
-| **[Safety Detection Suite](https://github.com/Sajjadahmeddd/REPLACE-ME-REPO-SAFETY-SUITE)** | Standalone PPE compliance detection identifying helmets, vests, and safety gear on workers in real time, plus independent fire and fall detection web apps with alert pipelines — later integrated into ConstructSafe. | Python, OpenCV, YOLOv8, Roboflow |
-| **[NeuroAssist AI](https://github.com/Sajjadahmeddd/REPLACE-ME-REPO-NEUROASSIST)** | Real-time AI assistant for neurodivergent students offering speech-based pronunciation feedback, with live focus tracking via face detection to monitor and flag attention drops. | Python, OpenCV, SpeechRecognition, CustomTkinter, Pyttsx3 |
+| **[ConstructSafe](https://github.com/Sajjadahmeddd/ConstructSafeee)** | Full-stack construction site safety platform integrating safety detection modules into a unified web application, with CCTV live playback, timelapse, and history retrieval via AWS S3. Logs all safety alerts to a database with automated report generation. | Python, Flask, OpenCV, YOLOv8, AWS S3 |
+| **[FingerLess](https://github.com/Sajjadahmeddd/Face_Attendance_System)** | Attendance automation system using InsightFace with dual-camera check-in/out and real-time video processing with duplicate-free attendance logging. | Python, OpenCV, InsightFace, Flask |
+| **[Fall Detection Project](https://github.com/Sajjadahmeddd/Fall_detection_system)** | Real-time fall detection system for safety monitoring, designed to detect risky incidents and trigger alert workflows for immediate response. | Python, OpenCV, YOLOv8, Computer Vision |
+| **[NeuroAssist AI](https://github.com/Sajjadahmeddd/Neuro-Assist-AI)** | Real-time AI assistant for neurodivergent students offering speech-based pronunciation feedback, with live focus tracking via face detection to monitor and flag attention drops. | Python, OpenCV, SpeechRecognition, CustomTkinter, Pyttsx3 |
 
 ---
 
@@ -151,8 +151,8 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajjad-ahmed-30969531a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajjad2k3ahmed@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](REPLACE-ME-LEETCODE-URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](REPLACE-ME-PORTFOLIO-URL)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sajjadahmeddd/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sajjad-portfolio-taupe.vercel.app/)
 
 </div>
 
