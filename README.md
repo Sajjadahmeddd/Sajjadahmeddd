@@ -65,29 +65,11 @@
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sajjadahmeddd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajjadahmeddd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sajjadahmeddd&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sajjadahmeddd&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
+GitHub activity and contribution summaries are currently omitted here to keep the profile reliable and free of broken external image badges.
 
 ---
 
 ## 🚀 Featured Projects
-
-<div align="center">
-
-[![ConstructSafe](https://github-readme-stats.vercel.app/api/pin/?username=Sajjadahmeddd&repo=ConstructSafeee&theme=tokyonight&hide_border=true)](https://github.com/Sajjadahmeddd/ConstructSafeee)
-[![FingerLess](https://github-readme-stats.vercel.app/api/pin/?username=Sajjadahmeddd&repo=Face_Attendance_System&theme=tokyonight&hide_border=true)](https://github.com/Sajjadahmeddd/Face_Attendance_System)
-
-</div>
 
 ### 💼 Project Details
 
