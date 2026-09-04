@@ -20,7 +20,6 @@
 - 💡 Specializing in **Computer Vision** and **Full-Stack Development** — object detection pipelines (YOLOv8, InsightFace) and real-time IoT systems
 - 🧩 Consistent **LeetCode** practice in Java
 - 📍 Based in **Chennai, India**
-- ⚡ Fun fact: **Team player, learnt from football, implemented at work place**
 
 ---
 
