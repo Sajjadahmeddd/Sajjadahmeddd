@@ -99,16 +99,6 @@
 
 ---
 
-## 🎓 Education
-
-🎓 **B.Tech in Information Technology** — Easwari Engineering College, Chennai (2023 – 2027)
-&nbsp;&nbsp;&nbsp;&nbsp;CGPA: **8.9 / 10**
-
-🏫 **12th Grade (PCM)** — Dhanish Matriculation Higher Secondary School, Chennai (2022 – 2023)
-&nbsp;&nbsp;&nbsp;&nbsp;Percentage: **95%**
-
----
-
 ## 📜 Certifications & Achievements
 
 - 🥇 **Hackathon Finalist (Top 10 of 120 Teams)** — SSN College of Engineering (12-hour event)
