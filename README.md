@@ -78,7 +78,6 @@
 |---------|-------------|------------|
 | **[ConstructSafe](https://github.com/Sajjadahmeddd/ConstructSafeee)** | Full-stack construction site safety platform integrating safety detection modules into a unified web application, with CCTV live playback, timelapse, and history retrieval via AWS S3. Logs all safety alerts to a database with automated report generation. | Python, Flask, OpenCV, YOLOv8, AWS S3 |
 | **[FingerLess](https://github.com/Sajjadahmeddd/Face_Attendance_System)** | Attendance automation system using InsightFace with dual-camera check-in/out and real-time video processing with duplicate-free attendance logging. | Python, OpenCV, InsightFace, Flask |
-| **[Fall Detection Project](https://github.com/Sajjadahmeddd/Fall_detection_system)** | Real-time fall detection system for safety monitoring, designed to detect risky incidents and trigger alert workflows for immediate response. | Python, OpenCV, YOLOv8, Computer Vision |
 | **[NeuroAssist AI](https://github.com/Sajjadahmeddd/Neuro-Assist-AI)** | Real-time AI assistant for neurodivergent students offering speech-based pronunciation feedback, with live focus tracking via face detection to monitor and flag attention drops. | Python, OpenCV, SpeechRecognition, CustomTkinter, Pyttsx3 |
 
 ---
