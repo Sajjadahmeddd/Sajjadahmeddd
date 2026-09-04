@@ -85,12 +85,7 @@
 ## 💼 Professional Experience
 
 **IoT & Software Development Intern** @ Ethical Intelligent Technologies
-📅 June 2025 - Present
-
-**ConstructSafe** — *Jan 2026* · `Python` `Flask` `OpenCV` `YOLOv8`
-- Developed a full-stack construction site safety platform integrating safety detection modules into a unified web application
-- Added CCTV live playback, timelapse, and history retrieval with AWS S3 integration
-- Logged all safety alerts to a database with automated report generation for incident tracking and review
+📅 November 2025 - Present
 
 **Indoor Tracking System using BLE Tags** — *Aug 2025* · `Python` `Flask` `MQTT` `Matplotlib`
 - Developed a BLE-based indoor tracking system using tags and gateways to enable real-time location monitoring within indoor environments
