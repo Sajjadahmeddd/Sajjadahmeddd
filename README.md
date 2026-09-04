@@ -93,15 +93,6 @@
 
 ---
 
-## 📜 Certifications & Achievements
-
-- 🥇 **Hackathon Finalist (Top 10 of 120 Teams)** — SSN College of Engineering (12-hour event)
-- 📜 **Java for AP Computer Science** — Oracle
-- 📜 **Python Programming (Pandas, NumPy, Matplotlib)** — Elewayte
-- 📜 **Networking Basics, CCNA Level 1 & 2** — Cisco
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
