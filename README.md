@@ -11,8 +11,6 @@
   <a href="https://sajjad-portfolio-taupe.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
---
-
 ## 👨‍💻 About Me
 
 - 🔭 Currently an **IoT & Software Development Intern** at Ethical Intelligent Technologies
