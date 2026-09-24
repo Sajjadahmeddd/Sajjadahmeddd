@@ -83,7 +83,7 @@
 ## 💼 Professional Experience
 
 **IoT & Software Development Intern** @ Ethical Intelligent Technologies
-📅 November 2025 - Present
+📅 November 2025 - June 2026
 
 **Indoor Tracking System using BLE Tags** — *Mar 2025* · `Python` `Flask` `MQTT` `Matplotlib`
 - Developed a BLE-based indoor tracking system using tags and gateways to enable real-time location monitoring within indoor environments
