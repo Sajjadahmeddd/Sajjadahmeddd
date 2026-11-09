@@ -13,7 +13,6 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently an **IoT & Software Development Intern** at Ethical Intelligent Technologies
 - 🎓 Final year **B.Tech Information Technology** student at Easwari Engineering College, Chennai
 - 💡 Specializing in **Computer Vision** and **Software Development** — object detection pipelines (YOLOv8, InsightFace) and real-time IoT systems
 - 🧩 Consistent **LeetCode** practice in Java
