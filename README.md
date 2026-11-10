@@ -82,5 +82,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sajjadahmeddd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
-  *"Code is like humor. When you have to explain it, it's bad." – Cory House*
+  *"Code is like humor. When you have to explain it, it's bad.*
 </div>
