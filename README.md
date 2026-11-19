@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Sajjad+Ahmed;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Sajjad+Ahmed+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Final Year Engineering Student | Computer Vision & Software Development</h3>
